@@ -1,25 +1,16 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "basifoR"]
 	path = basifoR
 	url = https://github.com/cran/basifoR
-	shallow = true
-	registered = true
 [submodule "BIOdry"]
 	path = BIOdry
 	url = https://github.com/cran/BIOdry
-	shallow = true
-	registered = true
 [submodule "ecochange"]
 	path = ecochange
 	url = https://github.com/cran/ecochange
-	shallow = true
-	registered = true
 [submodule "measuRing"]
 	path = measuRing
 	url = https://github.com/cran/measuRing
-	shallow = true
-	registered = true
