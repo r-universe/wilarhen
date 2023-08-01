@@ -2,12 +2,12 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "basifoR"]
-	path = basifoR
-	url = https://github.com/cran/basifoR
 [submodule "BIOdry"]
 	path = BIOdry
 	url = https://github.com/cran/BIOdry
+[submodule "basifoR"]
+	path = basifoR
+	url = https://github.com/cran/basifoR
 [submodule "ecochange"]
 	path = ecochange
 	url = https://github.com/cran/ecochange
