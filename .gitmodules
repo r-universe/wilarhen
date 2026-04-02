@@ -7,7 +7,7 @@
 	url = https://github.com/cran/BIOdry
 [submodule "basifoR"]
 	path = basifoR
-	url = https://github.com/cran/basifoR
+	url = https://github.com/wilarhen/basifor
 [submodule "ecochange"]
 	path = ecochange
 	url = https://github.com/cran/ecochange
